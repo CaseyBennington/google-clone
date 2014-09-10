@@ -56,18 +56,9 @@ a {
 a:hover {
 	text-decoration: underline;
 }
-a:active {
-	
-}
-a:focus {
-
-}
 
 /**** Header ****/
 
-header {
-
-}
 #main-menu {
 	margin: 15px 15px 0 0;
 	text-align: right;
